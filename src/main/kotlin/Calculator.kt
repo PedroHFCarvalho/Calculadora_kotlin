@@ -25,32 +25,32 @@ class Calculator {
 
     }
 
-    private fun soma(num1: Int, num2: Int): String {
+    fun soma(num1: Int, num2: Int): String {
         var result = num1 + num2
         return "$num1 + $num2 = $result"
     }
 
-    private fun subtract(num1: Int, num2: Int): String {
+    fun subtract(num1: Int, num2: Int): String {
         var result = num1 - num2
         return "$num1 - $num2 = $result"
     }
 
-    private fun multiplication(num1: Int, num2: Int): String {
+    fun multiplication(num1: Int, num2: Int): String {
         var result = num1 * num2
         return "$num1 * $num2 = $result"
     }
 
-    private fun divisor(num1: Int, num2: Int): String {
+    fun divisor(num1: Int, num2: Int): String {
         var result = num1 / num2
         return "$num1 / $num2 = $result"
     }
 
-    private fun rests(num1: Int, num2: Int): String {
+    fun rests(num1: Int, num2: Int): String {
         var result = num1 % num2
         return "$num1 % $num2 = $result"
     }
 
-    private fun potencia(num1: Int, num2: Int): String {
+    fun potencia(num1: Int, num2: Int): String {
         var result = num1.toDouble().pow(num2.toDouble())
         return "$num1 ** $num2 = $result"
     }

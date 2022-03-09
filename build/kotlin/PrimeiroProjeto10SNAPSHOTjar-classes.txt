@@ -1,0 +1,1 @@
+C:\Users\Pedro-PC\Desktop\Calculadora_kotlin\build\classes\kotlin\main\Calculator.class;C:\Users\Pedro-PC\Desktop\Calculadora_kotlin\build\classes\kotlin\main\MainKt.class
